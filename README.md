@@ -30,4 +30,5 @@ Language Translator is a Python-based desktop application that translates text f
 - Enter the text to be translated.
 - Select the source and destination languages.
 - click on the translate button to translate the text.
+  ![Capture2](https://github.com/Dheeraj-Rawat/Language-Translator/assets/141765900/df9ddcc3-f0a8-45d2-9bdb-586834bf27f2)
 
